@@ -2,14 +2,12 @@
 image: crpdlusy.azurecr.io/mcrouter:latest
 
 ## Memcached chart parameters
-#memcached:
-#  ## If true, the Memcached chart will be installed as a dependency
-#  enabled: true
-#  ## Number of Memcached replicas
-#  replicaCount: 3
-#  architecture: high-availability
-#  podDisruptionBudget:
-#    create: true
+memcached:
+  ## If true, the Memcached chart will be installed as a dependency
+  enabled: true
+  architecture: high-availability
+  podDisruptionBudget:
+    create: true
 
 ## Configure resource requests and limits
 ## ref: http://kubernetes.io/docs/user-guide/compute-resources/
