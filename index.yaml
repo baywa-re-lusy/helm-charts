@@ -3,9 +3,9 @@ entries:
   mcrouter:
     - apiVersion: v1
       appVersion: "1.0"
-      created: 2023-11-27T13:33:32Z
+      created: 2023-11-27T16:16:59Z
       description: A Helm chart for my application
-      digest: e8626f670287df79eb7072964d0f61ba147430d39d127486faa985b69816efc9
+      digest: 2e1732d63246d170d037f6c7b45e6d1a6c826b1767df3583707cc7ae3022bd5e
       name: mychart
       urls:
         - https://baywa-re-lusy.github.io/helm-charts/mcrouter-1.0.0.tgz
