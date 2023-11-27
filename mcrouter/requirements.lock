@@ -1,6 +1,6 @@
 dependencies:
 - name: memcached
-  repository: https://charts.helm.sh/stable
-  version: 3.1.0
-digest: sha256:b770f3a4fdaea4418eacb892b210f14bf133fc183b10c5ef0e81321314e1f66a
-generated: "2023-11-27T14:04:11.806071782+01:00"
+  repository: https://charts.bitnami.com/bitnami
+  version: 6.7.1
+digest: sha256:656f9fa0f21355bc750bb04a06126d56af5fc86fc6dec60aea7d9fe8c8b69701
+generated: "2023-11-27T17:32:58.832551955+01:00"

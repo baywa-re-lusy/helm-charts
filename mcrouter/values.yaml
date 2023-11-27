@@ -3,11 +3,6 @@ image: crpdlusy.azurecr.io/mcrouter:latest
 
 ## Memcached chart parameters
 memcached:
-  auth:
-    enabled: true
-    username: "test"
-    password: "azerty1234"
-    existingPasswordSecret: ""
   ## If true, the Memcached chart will be installed as a dependency
   enabled: true
   architecture: high-availability
