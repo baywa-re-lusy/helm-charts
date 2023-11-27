@@ -8,6 +8,10 @@ memcached:
   architecture: high-availability
   podDisruptionBudget:
     create: true
+  auth:
+    enabled: true
+    username: "test"
+    password: "azerty1234"
 
 ## Configure resource requests and limits
 ## ref: http://kubernetes.io/docs/user-guide/compute-resources/
