@@ -8,5 +8,5 @@ entries:
       digest: e8626f670287df79eb7072964d0f61ba147430d39d127486faa985b69816efc9
       name: mychart
       urls:
-        - http://example.com/charts/mychart-1.0.0.tgz
+        - https://baywa-re-lusy.github.io/helm-charts/mcrouter-1.0.0.tgz
       version: 1.0.0
